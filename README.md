@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,figma,github,git,vscode,androidstudio,linux&theme=dark" />
 
 ### 🌐 Contact
-<a href="https://srikumarm8248-droid.github.io"><img src="https://img.shields.io/badge/Portfolio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/></a>
+<a href="https://srikumarm8248-droid.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/></a>
 <a href="https://fiverr.com/srikumarm161"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 <a href="https://wa.me/918248128329?text=Hi%20SK%20Stark%2C%20I%27m%20interested%20in%20working%20with%20JOJO%20Digital"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:srikumarm8248@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=1E3A5F"/></a>
